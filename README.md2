@@ -1,0 +1,7 @@
+# 📦 Autonomous Dependency Warden
+
+> **Governing Authority:** Governing Officer Tarwater  
+> **Control Plane:** Governed under `autonomous-governance-core`
+
+## Overview
+`autonomous-dependency-warden` continuously audits Python dependencies across the entire governed repository fleet against PyPI and the OSV.dev vulnerability database, opening automated upgrade and CVE-patch Pull Requests for sandbox validation.
