@@ -1,0 +1,6 @@
+system_metadata:
+  repository_name: "autonomous-dependency-warden"
+  governing_officer: "Tarwater"
+
+operational_mandate:
+  require_final_approval_from: "Tarwater"
