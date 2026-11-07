@@ -1,0 +1,9 @@
+autonomous-dependency-warden/
+├── .github/
+│   └── workflows/
+│       └── dependency_patrol.yml
+├── dependency_scanner.py
+├── upgrade_dispatcher.py
+├── governance_config.yaml
+├── requirements.txt
+└── README.md
